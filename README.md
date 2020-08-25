@@ -1,7 +1,10 @@
-Reload the latest values from database
+objection plugin to reload the latest values from database
 
 # Usage
 
+```shell
+npm i -S objection-reload
+```
 
 ## Include with mixin
 
@@ -15,10 +18,10 @@ class User extends mixin(Model, [Reload]) {
 
 ## Then
 
-
+```js
 user.$reload();
-
+```
 
 # Limitations 
 
-It will only load its own properties and not relotions 
+It will only load its own properties and not relations
