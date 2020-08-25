@@ -1,0 +1,23 @@
+{
+  "name": "objection-reload",
+  "version": "1.0.0",
+  "description": "Reload latest values from database through instance \t",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarunBatraIT/objection-reload.git"
+  },
+  "keywords": [
+    "objection",
+    "reload"
+  ],
+  "author": "Varun Batra <codevarun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VarunBatraIT/objection-reload/issues"
+  },
+  "homepage": "https://github.com/VarunBatraIT/objection-reload#readme"
+}
